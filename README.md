@@ -16,6 +16,9 @@
 
 This project visualizes and compares the daily transaction counts of two major blockchains—Bitcoin and Solana—from 2024 to 2025. The goal is to analyze trends in transaction activity over time using a line chart built in Power BI.
 
+<img width="1255" height="574" alt="Screenshot (165)" src="https://github.com/user-attachments/assets/f4fba14a-5fdd-4a53-b6c1-3519ab590031" />
+
+
 ### 🗃️ Data Source
 
 The dataset includes:
